@@ -9,7 +9,7 @@ import java.io.PrintWriter;
 
 public class HelloWorldServlet extends HttpServlet {
 
-    private static final String HELLO_MESSAGE = "Hello World";
+    private static final String HELLO_MESSAGE = "Hello World 1";
 
 
     @Override
