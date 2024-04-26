@@ -46,6 +46,7 @@
                 <version>3.4.0</version>
                 <configuration>
                     <warName>helloworld</warName>
+                    <webXml>webapp/WEB-INF/web.xml</webXml>
                 </configuration>
             </plugin>
         </plugins>
