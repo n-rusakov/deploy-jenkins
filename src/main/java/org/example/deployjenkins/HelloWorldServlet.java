@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.logging.Logger;
 
-@WebServlet(name = "HelloWorldServlet", urlPatterns = {"/helloworld"})
+@WebServlet(name = "HelloWorldServlet", urlPatterns = {"/"})
 public class HelloWorldServlet extends HttpServlet {
 
     private static final String HELLO_MESSAGE = "Hello World";
